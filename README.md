@@ -3,7 +3,7 @@
 An interactive financial analytics platform designed to support credit risk assessment, macroeconomic analysis, and capital expansion decisions.  
 The dashboard integrates macroeconomic indicators with risk modeling techniques to transform raw data into actionable financial insights.
 
-## 🚀 Live Dashboard
+##  Live Dashboard
 
 👉 https://smart--credit-analyzer-c6hrpgcdwpw4a6xreamayh.streamlit.app/
 
@@ -20,16 +20,16 @@ This project provides a unified analytical view of:
 
 The core objective is to bridge the gap between macroeconomic conditions and credit decision-making, enabling institutions to evaluate risk, simulate scenarios, and optimize capital deployment through a single analytical interface.
 
- 🎯 Key Objectives
+  Key Objectives
 
 - Translate risk metrics into practical expansion strategies (Defensive / Moderate / Aggressive)  
 - Support multi-market portfolio optimization based on risk-adjusted returns  
 - Perform economic stress testing to estimate potential credit losses  
 - Provide executive-level summaries to assist strategic decision-making  
 
- 🧭 Methodology – Three-Layer Framework
+  Methodology – Three-Layer Framework
 
- 🧠 Strategic Layer (Planning & Risk Logic)
+  Strategic Layer (Planning & Risk Logic)
 
 - Define objectives for credit risk assessment and expansion decisions  
 - Select core macro-financial indicators (GDP growth, inflation, credit growth)  
@@ -53,7 +53,7 @@ Tools & Technologies:
 - Plotly – financial and analytical visualizations  
 
 
- 🚀 Execution Layer (Implementation & Decision Support)
+  Execution Layer (Implementation & Decision Support)
 
 - Initial dashboard structure is designed and data quality validated  
 - Indicators are analyzed using the Larger Market Formula for comparison  
@@ -63,7 +63,7 @@ Tools & Technologies:
 - Final technical and visual tuning ensures alignment between analytics and presentation  
 
 
- 🧠 Key Decision Insights
+  Key Decision Insights
 
 The platform supports decision-making across three core areas:
 
@@ -99,3 +99,11 @@ This project is informed by prior study of core financial analytics concepts inc
 This project integrates macroeconomic analysis, credit risk assessment, and portfolio optimization into a unified interactive dashboard.  
 It enables data-driven expansion and capital allocation decisions through structured risk scoring and scenario analysis.  
 Overall, the platform shifts decision-making from reactive responses to a proactive, analytics-driven approach, improving financial sustainability and investment quality.
+
+ Transparency Note
+
+This project was fully developed by the author, with AI tools used selectively to support documentation, idea structuring, and presentation refinement.
+Any AI-assisted coding represents less than 20% of the overall project development.
+
+All analytical logic, system design, data selection, and decision frameworks were independently implemented.
+The project reflects personal reasoning, financial understanding, and hands-on execution.
