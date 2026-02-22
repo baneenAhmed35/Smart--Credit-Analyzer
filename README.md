@@ -101,9 +101,8 @@ It enables data-driven expansion and capital allocation decisions through struct
 Overall, the platform shifts decision-making from reactive responses to a proactive, analytics-driven approach, improving financial sustainability and investment quality.
 
  Transparency Note
+I developed this project entirely on my own. I used AI tools in a limited way, mainly to help organize ideas, support documentation, and improve presentation.
 
-This project was fully developed by the author, with AI tools used selectively to support documentation, idea structuring, and presentation refinement.
-Any AI-assisted coding represents less than 20% of the overall project development.
-
-All analytical logic, system design, data selection, and decision frameworks were independently implemented.
-The project reflects personal reasoning, financial understanding, and hands-on execution.
+Any AI-assisted coding represents less than 20% of the overall project.
+All analysis, system design, data selection, and decision-making logic were done independently.
+This project reflects my personal thinking, financial understanding, and hands-on implementation from start to finish.
