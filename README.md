@@ -99,5 +99,3 @@ This project is informed by prior study of core financial analytics concepts inc
 This project integrates macroeconomic analysis, credit risk assessment, and portfolio optimization into a unified interactive dashboard.  
 It enables data-driven expansion and capital allocation decisions through structured risk scoring and scenario analysis.  
 Overall, the platform shifts decision-making from reactive responses to a proactive, analytics-driven approach, improving financial sustainability and investment quality.
-
-Built as a portfolio financial analytics project demonstrating risk modeling, expansion strategy, and portfolio optimization using Python and Streamlit.غير الايموجي
